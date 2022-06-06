@@ -8,7 +8,9 @@
     --success-color: #5cb85c;
     --error-color:#d9534f;
 }
-
+::-webkit-scrollbar{
+    width: 0;
+}
 *{
     padding: 0;
     margin: 0;
